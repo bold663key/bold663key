@@ -1,5 +1,7 @@
 # 💫 About Me:
 I'm currently working on programming raspberry pi pico. 
+I am a volunteer in Raspberry Pi Foundation.
+I love Linux btw
 
 
 ## 🌐 Socials:
