@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on programming raspberry pi pico. <br />
+I'm currently working on programming ESP32 && raspberry pi pico. <br />
 I am a volunteer in Raspberry Pi Foundation. <br />
 I love <b>GNU/Linux</b> btw <br />
 
